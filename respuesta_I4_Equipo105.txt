@@ -6,3 +6,8 @@ A- El color que hay en testing es azul.
 B- El color que hay en desarrollo es amarillo.
 C- El color que hay en master es amarillo.
 D- El color que quedó en la favicon es el de alfa.
+E- No, ninguno
+F- Ningun problema
+G- 
+H- Se fuerza el push
+I- Git merge desde desarrollo a testing
